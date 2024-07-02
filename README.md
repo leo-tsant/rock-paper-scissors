@@ -1,7 +1,7 @@
 # Rock-Paper-Scissors
 
 Live Demo:
-https://leo-tsant.github.io/Rock-Paper-Scissors/
+https://leo-tsant.github.io/rock-paper-scissors/
 
 ![Project Screenshot](./images/rock-paper-scissors.png)
 
